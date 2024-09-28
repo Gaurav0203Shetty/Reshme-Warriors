@@ -1,4 +1,4 @@
-:Author: gaurav02_03shetty
+:Author: gaurav02_03shetty, RasUnder025
 :Email:
 :Date: 27/09/2024
 :Revision: version#
@@ -6,7 +6,8 @@
 
 = Project: {Project}
 
-Describe your project
+Team: Reshme Warriors
+DevHack hackathon project. Silkworm sericulture requires labour intensive environment conditions. We designed an IoT system using hardware and virtual simulators on the Arduino board. The files are split into two versions: hardware and virtual environment. We successfully wired monitoring sensors and regulating actuators.
 
 == Step 1: Installation
 Please describe the steps to install this project.
